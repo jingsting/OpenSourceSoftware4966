@@ -11,3 +11,11 @@ I think it is unjust that the matter ended with Jesse paying all he has to the R
 ![Alt text](resource/lab1_beginner.png?raw=true "Title")
 ![Alt text](resource/lab1_tutorial.png?raw=true "Title")
 ![Alt text](resource/lab1_blockly.png?raw=true "Title")
+
+# Reflection
+Open source software of choice: ODAS (https://github.com/introlab/odas)
+ODAS stands for Open embedded Audition System. ODAS is a free and open source library dedicated for sound source localization, tracking, separation and post-filtering.
+I would want to add a function that gets output from microphone arrays and apporximate a estimated location of the sound source.
+To do this I will fork the current repository of ODAS and modify the program to be able to identify whether itself is the server from configuration file.
+I will create a separate file for the the estimation algorithm.
+The server will receive outputs from clients and run the added algorithm and output in a different socket.
