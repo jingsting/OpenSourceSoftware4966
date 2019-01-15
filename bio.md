@@ -1,3 +1,3 @@
-Jingfei Zhou
-<!-- ![alt text](https://github.com/jingsting/OpenSourceSoftware4966/photo.jpg) -->
+# Name: Jingfei Zhou
+## Email: zhouj5@rpi.edu
 ![Alt text](photo.jpg?raw=true "Title")
