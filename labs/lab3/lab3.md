@@ -34,5 +34,5 @@ gource: https://youtu.be/EwyLF2Ger3U
 # Part 2
 ![Alt text](/labs/lab3/resource/markdown.png?raw=true "Title")
 
-##markdown: https://github.com/jingsting/OpenSourceSoftware4966/blob/master/labs/lab3/markdown.py
-##unittest: https://github.com/jingsting/OpenSourceSoftware4966/blob/master/labs/lab3/test_markdown_unittest.py
+## markdown: https://github.com/jingsting/OpenSourceSoftware4966/blob/master/labs/lab3/markdown.py
+## unittest: https://github.com/jingsting/OpenSourceSoftware4966/blob/master/labs/lab3/test_markdown_unittest.py
