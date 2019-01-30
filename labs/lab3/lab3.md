@@ -32,3 +32,5 @@ The output file matches the info found on the github page
 gource: https://youtu.be/EwyLF2Ger3U
 
 # Part 2
+![Alt text](/labs/lab3/resource/markdown.png?raw=true "Title")
+
