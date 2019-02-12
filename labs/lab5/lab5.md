@@ -1,7 +1,11 @@
 # Part 1
 Screenshots of steps 1-5:
 ![Alt text](/labs/lab5/resource/step1.png?raw=true "Title")
+---
 ![Alt text](/labs/lab5/resource/step2.png?raw=true "Title")
+---
 ![Alt text](/labs/lab5/resource/step3.png?raw=true "Title")
+---
 ![Alt text](/labs/lab5/resource/step4.png?raw=true "Title")
+---
 ![Alt text](/labs/lab5/resource/step5.png?raw=true "Title")
