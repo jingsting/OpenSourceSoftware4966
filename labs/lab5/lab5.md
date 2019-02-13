@@ -29,6 +29,7 @@ https://github.com/jingsting/OpenSourceSoftware4966/blob/master/labs/lab5/cmake-
 ---
 ## Executables:
 Shared: 8448 byte
+
 Static: 8528 byte
 
 Static is slightly bigger
