@@ -6,6 +6,7 @@
 
 ## Adding a Test
 ![Alt text](/labs/lab8/resource/ctest1a.png?raw=true "Title")
+---
 ![Alt text](/labs/lab8/resource/ctest1b.png?raw=true "Title")
 
 ## Fixing the Test
