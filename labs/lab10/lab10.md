@@ -23,6 +23,10 @@
 ![Alt text](/labs/lab10/resource/mongo4a.png?raw=true "Title")
 ---
 ![Alt text](/labs/lab10/resource/mongo4b.png?raw=true "Title")
+---
+Link to script: https://github.com/jingsting/OpenSourceSoftware4966/blob/master/labs/lab10/checkpoint4.py
 
 ## Checkpoint 5
 ![Alt text](/labs/lab10/resource/mongo5.png?raw=true "Title")
+---
+Link to script: https://github.com/jingsting/OpenSourceSoftware4966/blob/master/labs/lab10/checkpoint5.py
