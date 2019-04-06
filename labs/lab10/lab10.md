@@ -1,7 +1,7 @@
 ## Checkpoint 1
 ![Alt text](/labs/lab10/resource/mongo1a.png?raw=true "Title")
 ---
-![Alt text](/labs/lab10/resource/mongo1a.png?raw=true "Title")
+![Alt text](/labs/lab10/resource/mongo1b.png?raw=true "Title")
 
 ## Checkpoint 2
 ![Alt text](/labs/lab10/resource/mongo2a.png?raw=true "Title")
