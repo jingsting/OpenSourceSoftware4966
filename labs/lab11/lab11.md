@@ -1,32 +1,36 @@
 ## Checkpoint 1
-![Alt text](/labs/lab10/resource/mongo1a.png?raw=true "Title")
----
-![Alt text](/labs/lab10/resource/mongo1b.png?raw=true "Title")
+![Alt text](/labs/lab11/resource/tens1.png?raw=true "Title")
 
 ## Checkpoint 2
-![Alt text](/labs/lab10/resource/mongo2a.png?raw=true "Title")
----
-![Alt text](/labs/lab10/resource/mongo2b.png?raw=true "Title")
+![Alt text](/labs/lab11/resource/tens2.png?raw=true "Title")
 
-## Checkpoint 3
-![Alt text](/labs/lab10/resource/mongo3a.png?raw=true "Title")
+## Checkpoint 1
+### Shirt
+Image:
+![Alt text](/labs/lab11/resource/img1.png?raw=true "Title")
 ---
-![Alt text](/labs/lab10/resource/mongo3b.png?raw=true "Title")
+After process:
+![Alt text](/labs/lab11/resource/data1.png?raw=true "Title")
 ---
-![Alt text](/labs/lab10/resource/mongo3c.png?raw=true "Title")
----
-![Alt text](/labs/lab10/resource/mongo3d.png?raw=true "Title")
----
-![Alt text](/labs/lab10/resource/mongo3e.png?raw=true "Title")
+Result:
+![Alt text](/labs/lab11/resource/tens3a.png?raw=true "Title")
 
-## Checkpoint 4
-![Alt text](/labs/lab10/resource/mongo4a.png?raw=true "Title")
+### Sneakers
+Image:
+![Alt text](/labs/lab11/resource/img2.png?raw=true "Title")
 ---
-![Alt text](/labs/lab10/resource/mongo4b.png?raw=true "Title")
+After process:
+![Alt text](/labs/lab11/resource/data2.png?raw=true "Title")
 ---
-Link to script: https://github.com/jingsting/OpenSourceSoftware4966/blob/master/labs/lab10/checkpoint4.py
+Result:
+![Alt text](/labs/lab11/resource/tens3b.png?raw=true "Title")
 
-## Checkpoint 5
-![Alt text](/labs/lab10/resource/mongo5.png?raw=true "Title")
+### Bag
+Image:
+![Alt text](/labs/lab11/resource/img3.png?raw=true "Title")
 ---
-Link to script: https://github.com/jingsting/OpenSourceSoftware4966/blob/master/labs/lab10/checkpoint5.py
+After process:
+![Alt text](/labs/lab11/resource/data3.png?raw=true "Title")
+---
+Result:
+![Alt text](/labs/lab11/resource/tens3c.png?raw=true "Title")
